@@ -1,8 +1,0 @@
-import pandas as pd
-import plotly.express as px
-dfb = pd.read_csv("C:\Users\3615\Documents\GitHub\data_viz\electric_data.csv")
-
-dfb.columns
-
-
-
